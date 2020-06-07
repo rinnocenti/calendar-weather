@@ -1,0 +1,13 @@
+{
+  "about-time.notMaster": "Não há cronometrista - operação abortada",
+  "about-time.GTM.name": "Multiplicador para atualização do tempo no jogo",
+  "about-time.GTM.hint": "o relogio do jogo muda os segundos usando o 'multiplicando'para cada segundo no tempo real",
+  "about-time.RTU.name": "Intervalo de tempo real",
+  "about-time.RTU.hint": "Com que freqüência o relógio do jogo é atualizado. ex. 30 o relógio do jogo será atualizado a cada 30 segundos em tempo real. Se 0 o relógio do jogo não será atualizado com alterações em tempo real",
+  "about-time.SPR.name": "Segundos em Jogo por rodada",
+  "about-time.SPR.hint": "Quanto tempo dura cada rodada de combate",
+  "about-time.MCT.name": "Tempo limite antes de assumir o relógio principal",
+  "about-time.MCT.hint": "Quando um cliente GM loga a quanto tempo de espera para ver se outra conta GM já é o cronometrista",
+  "about-time.CAL.name": "Ativa o calendário",
+  "about-time.CAL.hint": "Escolha qual calendário usar no jogo"
+}
